@@ -3,7 +3,7 @@
 
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy my Agntic Dialog super app 
 
 This contains everything you need to run your app locally.
 
