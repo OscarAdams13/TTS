@@ -19,3 +19,11 @@ Just add the keys from google
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+Cine-log is a Small part of our full App Cine-boarder (workibg tittle)  
+Coming out soon - allows full agnetic creation of High Qaulity cinematic Films Commericals and shorts
+For more information Contant us
+
+Thanks for trying Cine-log Have fun 
+
